@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
- projetos da dio
+ projeto da dio
